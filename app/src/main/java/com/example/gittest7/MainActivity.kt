@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
         //我害怕极了
 
         //修改2
+
+        //commit前有错会提示是否commit，commit之后只是提交到本地仓库，push才是提交到远程仓库
     }
 }
